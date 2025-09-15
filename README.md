@@ -1,0 +1,1 @@
+# simple-amplify-static-site
